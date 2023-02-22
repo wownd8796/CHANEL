@@ -1,5 +1,5 @@
 var swiper = new Swiper(".mySwiper", {
-  slidesPerView: 1,
+  slidesPerView: 2,
   spaceBetween: 30,
   // 슬라이드 무한루프
   loop: true,
